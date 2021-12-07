@@ -6,7 +6,7 @@
 
 ### Installation
 - Clone the project
-    - `git clone `
+    - `git clone git@github.com:kusiu/brandnewstory.git`
 - Copy env file
     - `cp .env.example .env`
 - Install project dependencies
